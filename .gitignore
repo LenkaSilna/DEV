@@ -7,8 +7,6 @@
 # Ignore Sass cache
 /.sass-cache
 
-# Ignore compiled CSS
-*.css
 
 # Ignore map files
 *.map
